@@ -1,11 +1,8 @@
 package day0;
 
 public class First {
-    // TODO: Works on this tomorrow
-    //  add some cool code
-
-    // extra line 1
-    // extra line 2
-    // extra line 3
+    public static void main(String[] args) {
+        System.out.println("I missed the code Saim put up here!");
+    }
 
 }
